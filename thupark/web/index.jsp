@@ -14,7 +14,7 @@
 </style>
 
 <script language="JavaScript1.5">
-  window.defaultStatus="haha";
+  window.defaultStatus="hahahaha";
 </script>
 
 
